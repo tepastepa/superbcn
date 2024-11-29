@@ -1,0 +1,3 @@
+something broke with connecting editing and creating, Im getting thius mistake
+
+Target class [App\Http\Controllers\PostController] does not exist.

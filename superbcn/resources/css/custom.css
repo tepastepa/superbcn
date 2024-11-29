@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'D-DINCondensed';
+    src: url('../../../public/D-DINCondensed.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    letter-spacing: -10px;
+} 
